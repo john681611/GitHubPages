@@ -1,0 +1,13 @@
+body {
+    margin: auto;
+    width: 90%;
+    text-align: center;
+}
+
+h1 {
+    color: red;
+}
+
+p {
+    font-weight: bolder
+}
