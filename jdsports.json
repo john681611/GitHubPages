@@ -5,7 +5,7 @@
     "global": {
         "colors": {
             "brand": "#ddd8ae",
-            "background": "#000",
+            "background": "#000"
         }
     }
 }
