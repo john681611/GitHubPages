@@ -1,7 +1,7 @@
 {
     "rounding": 0,
     "spacing": 20,
-    "defaultMode": "light",
+    "defaultMode": "dark",
     "global": {
         "colors": {
             "brand": "#ddd8ae",
