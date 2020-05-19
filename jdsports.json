@@ -1,11 +1,19 @@
 {
-    "rounding": 0,
-    "spacing": 20,
-    "defaultMode": "dark",
-    "global": {
-        "colors": {
-            "brand": "#ddd8ae",
-            "background": "#000"
-        }
-    }
+	"rounding": 0,
+	"spacing": 20,
+	"defaultMode": "dark",
+	"productCard": {
+		"image": {
+			"margin": "large",
+			"extend": {
+				"border": "red 1px solid"
+			}
+		}
+	},
+	"global": {
+		"colors": {
+			"brand": "#ddd8ae",
+			"background": "#000"
+		}
+	}
 }
